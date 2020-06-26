@@ -1,0 +1,39 @@
+# Filename: data_1.dat
+# Timestamp: Sun Dec 08 14:19:38 2019
+
+# Column 1:
+#	end: 1000.0
+#	name: dac1 (Vbias)
+#	size: 101
+#	start: 0.0
+#	type: coordinate
+# Column 2:
+#	end: 0
+#	name: y_parameter (none)
+#	size: 1
+#	start: 0
+#	type: coordinate
+# Column 3:
+#	end: 0
+#	name: z_parameter (none)
+#	size: 1
+#	start: 0
+#	type: coordinate
+# Column 4:
+#	name: lockin 1
+#	type: value
+# Column 5:
+#	name: Keithley 1
+#	type: value
+# Column 6:
+#	name: Keithley 2
+#	type: value
+# Column 7:
+#	name: processed dIdV
+#	type: value
+
+0.000000000000e+00	0	0	7.865470000000e-04	-6.260654520000e-03	-4.584317240000e-01	0.000000000000e+00
+1.000000000000e+01	0	0	7.827320000000e-04	3.783121580000e-03	-4.584317240000e-01	0.000000000000e+00
+2.000000000000e+01	0	0	7.839240000000e-04	1.330958960000e-02	-4.584303520000e-01	0.000000000000e+00
+3.000000000000e+01	0	0	7.810630000000e-04	2.303550680000e-02	-4.584276080000e-01	0.000000000000e+00
+4.000000000000e+01	0	0	7.827320000000e-04	3.279120290000e-02	-4.584214350000e-01	0.000000000000e+00
